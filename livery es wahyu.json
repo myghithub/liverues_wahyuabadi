@@ -1,0 +1,269 @@
+{
+   "pc": "com.kalonghideung.liveryeswahyu",
+   "kang_zayvius": [
+       {
+        "id": "1",
+        "tittle": "Pangestu",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/Pangestu%20-%20Aditya%20F%20R.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1478.jpg"
+      },
+       {
+         "id": "2",
+         "tittle": "Sandreno",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/lautan-api-by-mid-395/SANDRENO%20-%20Aditya%20F%20R%20official.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1479.jpg"
+       },
+       {
+        "id": "3",
+        "tittle": "Setia Jaya",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/livery%20setia%20jaya%20-%20Aditya%20F%20R%20official.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1480.jpg"
+      },
+       {
+         "id": "4",
+         "tittle": "Windy Jaya",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/lautan-api-by-mid-395/WINDi%20JAYA%20-%20Aditya%20F%20R%20official.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1481.jpg"
+       },
+       {
+        "id": "5",
+        "tittle": "Bandar Rawit",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/Bandar%20Rawit%20by%20MID_395.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1482.jpg"
+      },
+       {
+         "id": "6",
+         "tittle": "Bukit Rawit",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/lautan-api-by-mid-395/Bukit%20Rawit%20by%20MID_395.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1483.jpg"
+       },
+       {
+          "id": "7",
+          "tittle": "Lautan Api",
+          "date": "2021-03-12",
+          "link_file": "https://archive.org/download/lautan-api-by-mid-395/Lautan%20Api%20by%20Mid_395.zip",
+          "format_file":"zip",
+          "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1475.jpg"
+        },
+       {
+         "id": "8",
+         "tittle": "Karya Muda",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/lautan-api-by-mid-395/Karya%20Muda%20White%20by%20Aditya%20FR.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1474.jpg"
+       },
+       {
+        "id": "9",
+        "tittle": "Bandar Cabe",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/Bandar%20Cabe%20by%20M.%20Ainul%20Yakin.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1462.jpg"
+      },
+       {
+        "id": "10",
+        "tittle": "My black",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/MyBlack%20by%20BimaHD.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1461.jpg"
+      },
+      {
+        "id": "11",
+        "tittle": "BMX",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/BMX%20Bumi%20Makmur%20by%20Wildan.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1460.jpg"
+      },
+      {
+        "id": "12",
+        "tittle": "Kurir Rawit",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/KURIR%20RAWIT.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1459.jpg"
+      },
+      {
+        "id": "13",
+        "tittle": "Boss Muda Sarah",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/Boss%20Muda%20Fixed.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1456.jpg"
+      },
+      {
+        "id": "14",
+        "tittle": "Sekawan Fixed",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/lautan-api-by-mid-395/Sekawan%20Bak%20Fixed.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1455.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "Pejuang Rawit",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/PEJUANG%20RAWIT.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1454.jpg"
+      },
+{
+        "id": "16",
+        "tittle": "Meitos",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/meitos%20BimaHD.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1493.jpg"
+      },
+      {
+         "id": "17",
+         "tittle": "NTR Concept Dump",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/NTR%20CONCEPT%20DUMP%20%28ES%20TRUCK%29%20-%20FADEL%20%E2%80%A2NTR%20REBORN%20PROJECT%E2%80%A2.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1492.jpg"
+       },
+       {
+         "id": "18",
+         "tittle": "Boss Muda Dump",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Boss%20Muda%20dump.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1491.jpg"
+       },
+       {
+         "id": "19",
+         "tittle": "Sekawan Dump ",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Sekawan%20Bak%20Dump.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1490.jpg"
+       },
+       {
+        "id": "20",
+        "tittle": "Oppa Muda",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Oppa%20Muda%20by%20Aditya%20FR.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1489.jpg"
+      },
+       {
+         "id": "21",
+         "tittle": "On Fire Biru",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/On-Fire%20by%20Aditya%20FR.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1488.jpg"
+       },
+       {
+        "id": "22",
+        "tittle": "Hm Cabe White",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/HM%20CABE%20by%20Aditya%20FR.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1487.jpg"
+      },
+       {
+         "id": "23",
+         "tittle": "Story Bandar Rawit",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/driver%20story%20V3%20by%20MID_395.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1486.jpg"
+       },
+       {
+        "id": "24",
+        "tittle": "Doraemon",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Dorayagah%20by%20Brutoo%20Edanz.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1485.jpg"
+      },
+       {
+         "id": "25",
+         "tittle": "Alfarizi",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Alfarizi%20by%20Aditya%20FR.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1484.jpg"
+       },
+       {
+          "id": "26",
+          "tittle": "Karya Muda",
+          "date": "2021-03-12",
+          "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Karya%20Muda%20by%20Aditya%20FR.zip",
+          "format_file":"zip",
+          "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1473.jpg"
+        },
+       {
+         "id": "27",
+         "tittle": "Amanda Trans",
+         "date": "2021-03-12",
+         "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Amanda%20Trans%20by%20Aditya.zip",
+         "format_file":"zip",
+         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1472.jpg"
+       },
+       {
+        "id": "28",
+        "tittle": "Love indonesia",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/I%20Love%20Indonesia%20by%20Brut%C3%B6%C3%B6%20%C4%92d%C4%81nz%20-%20Brutoo%20Edanz.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1469.jpg"
+      },
+       {
+        "id": "29",
+        "tittle": "Angga Jaya",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/angga%20jaya%20-%20anggalih%20R%20%28fixed%29.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1468.jpg"
+      },
+      {
+        "id": "30",
+        "tittle": "Es Full Stiker",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Options%20by%20Brut%C3%B6%C3%B6%20%C4%92d%C4%81nz%20-%20Brutoo%20Edanz.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1467.jpg"
+      },
+      {
+        "id": "31",
+        "tittle": "Akeloy",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Akeloy%20by%20BimaHD.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1466.jpg"
+      },
+      {
+        "id": "32",
+        "tittle": "Truck Wahyu Abadi",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Wahyu%20Abadi%20by%20Agung%20Gameplays.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1472.jpg"
+      },
+      {
+        "id": "33",
+        "tittle": "Truck Wahyu Abadi Full Stiker",
+        "date": "2021-03-12",
+        "link_file": "https://archive.org/download/options-by-brutoo-edanz-brutoo-edanz/Wahyu%20Abadi%20by%20Gracio%20Rumondor.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1464.jpg"
+      }
+   ]
+}
